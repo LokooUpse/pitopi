@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Permissions-Policy",
+          "value": "display-capture=(self), microphone=(self), wake-lock=(self)"
+        }
+      ]
+    }
+  ]
+}

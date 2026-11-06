@@ -1,0 +1,16 @@
+{
+  "name": "soundbridge-p2p-audio",
+  "version": "1.0.0",
+  "description": "WebRTC P2P PC System Audio to Phone Streaming Service (works on static hosting or free Node.js PaaS)",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "peer": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

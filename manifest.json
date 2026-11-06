@@ -1,0 +1,9 @@
+{
+  "name": "SoundBridge P2P — Звук с ПК на телефон",
+  "short_name": "SoundBridge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "description": "Веб-сервис для прямой передачи системного звука с ПК на смартфон через WebRTC."
+}
